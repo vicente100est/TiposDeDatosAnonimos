@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\Tuplas.exe
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\Tuplas.deps.json
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.json
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\Tuplas.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\ref\Tuplas.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\bin\Debug\net5.0\Tuplas.pdb
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfo.cs
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\ref\Tuplas.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.pdb
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.genruntimeconfig.cache
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\Tuplas\obj\Debug\net5.0\Tuplas.csproj.AssemblyReference.cache

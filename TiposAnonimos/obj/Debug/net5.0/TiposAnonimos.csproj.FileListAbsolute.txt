@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.exe
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.deps.json
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.json
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\ref\TiposAnonimos.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\ref\TiposAnonimos.dll
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\vicen\source\repos\TiposDeDatosAnonimos\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.genruntimeconfig.cache
